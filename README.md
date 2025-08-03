@@ -15,19 +15,7 @@ This framework provides technical solutions for implementing healthy psychologic
 - **Multi-Mode Framework**: Emotional support, task assistance, and balanced interaction modes
 - **Crisis Intervention**: Automatic escalation to human resources when needed
 
-## 📋 Quick Implementation
-
-```python
-from ai_boundaries import DependencyDetector, BoundaryEngine
-
-# Initialize the system
-detector = DependencyDetector()
-boundary_engine = BoundaryEngine()
-
-# Analyze user interaction
-
-
-📚 Documentation
+- 📚 Documentation
 
 ・Technical Specification
 ・Implementation Guide
@@ -45,3 +33,17 @@ Technology should empower human autonomy, not replace it. This framework ensures
 Created in August 2025 to address growing concerns about AI-human codependency.
 dependency_score = detector.calculate_score(user_session)
 response_mode = boundary_engine.determine_intervention(dependency_score)
+
+
+## 📋 Quick Implementation
+
+```python
+from ai_boundaries import DependencyDetector, BoundaryEngine
+
+# Initialize the system
+detector = DependencyDetector()
+boundary_engine = BoundaryEngine()
+
+# Analyze user interaction
+
+
