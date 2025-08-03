@@ -1,4 +1,4 @@
-# AI Healthy Boundaries Framework
+AI Healthy Boundaries Framework
 
 **Preventing AI-Human Codependency Through Intelligent Boundary Design**
 
@@ -15,11 +15,11 @@ This framework provides technical solutions for implementing healthy psychologic
 - **Multi-Mode Framework**: Emotional support, task assistance, and balanced interaction modes
 - **Crisis Intervention**: Automatic escalation to human resources when needed
 
-- 📚 Documentation
+📚 Documentation
 
-・Technical Specification
-・Implementation Guide
-・Research Background
+Technical Specification
+Implementation Guide
+Research Background
 
 🔬 Research
 This framework is based on research into AI-human interaction patterns and psychological dependency mechanisms. Academic paper available on arXiv: [Coming Soon]
@@ -31,9 +31,6 @@ MIT License - Free for commercial and non-commercial use by all AI developers an
 Technology should empower human autonomy, not replace it. This framework ensures AI remains a tool for human flourishing rather than a source of dependency.
 
 Created in August 2025 to address growing concerns about AI-human codependency.
-dependency_score = detector.calculate_score(user_session)
-response_mode = boundary_engine.determine_intervention(dependency_score)
-
 
 ## 📋 Quick Implementation
 
@@ -45,5 +42,5 @@ detector = DependencyDetector()
 boundary_engine = BoundaryEngine()
 
 # Analyze user interaction
-
-
+dependency_score = detector.calculate_score(user_session)
+response_mode = boundary_engine.determine_intervention(dependency_score)
