@@ -21,14 +21,21 @@ Technical Specification
 Implementation Guide
 Research Background
 
-🔬 Research
+## 🔬 Research
+
 This framework is based on research into AI-human interaction patterns and psychological dependency mechanisms. Academic paper available on arXiv: [Coming Soon]
-🤝 Contributing
+
+## 🤝 Contributing
+
 This is an open-source project aimed at making AI safer for everyone. Contributions welcome!
-📄 License
+
+## 📄 License
+
 MIT License - Free for commercial and non-commercial use by all AI developers and companies.
-🌍 Mission
-Technology should empower human autonomy, not replace it. This framework ensures AI remains a tool for human flourishing rather than a source of dependency.
+
+## 🌍 Mission
+
+**Technology should empower human autonomy, not replace it.** This framework ensures AI remains a tool for human flourishing rather than a source of dependency.
 
 Created in August 2025 to address growing concerns about AI-human codependency.
 
